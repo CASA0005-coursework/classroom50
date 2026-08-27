@@ -1,4 +1,23 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "practice-exam-26-27",
+      "name": "Practice exam 26-27",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "CASA0005-coursework",
+        "repo": "CASA0005-practice-exam",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
+    }
+  ]
 }
