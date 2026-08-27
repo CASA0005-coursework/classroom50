@@ -1,4 +1,11 @@
 {
   "schema": "classroom50/scores/v1",
-  "assignments": {}
+  "assignments": {
+    "test": {
+      "type": "individual",
+      "entries": [],
+      "collected_at": "2026-08-27T11:55:17Z",
+      "detected": []
+    }
+  }
 }
