@@ -1,0 +1,26 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "CASA0005 2026-2027",
+  "short_name": "casa0005-2026-2027",
+  "term": "Term 1 2026-2027",
+  "org": "CASA0005-coursework",
+  "team": {
+    "id": 19195506,
+    "slug": "classroom50-casa0005-2026-2027"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19195507,
+      "slug": "classroom50-casa0005-2026-2027-teacher"
+    },
+    "hta": {
+      "id": 19195508,
+      "slug": "classroom50-casa0005-2026-2027-hta"
+    },
+    "ta": {
+      "id": 19195509,
+      "slug": "classroom50-casa0005-2026-2027-ta"
+    }
+  },
+  "secret": "g6q7kkld"
+}
