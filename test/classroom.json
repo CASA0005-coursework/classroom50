@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "test",
+  "short_name": "test",
+  "term": "fall 2026",
+  "org": "CASA0005-coursework",
+  "team": {
+    "id": 19194961,
+    "slug": "classroom50-test"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19194962,
+      "slug": "classroom50-test-teacher"
+    },
+    "hta": {
+      "id": 19194963,
+      "slug": "classroom50-test-hta"
+    },
+    "ta": {
+      "id": 19194964,
+      "slug": "classroom50-test-ta"
+    }
+  }
+}
